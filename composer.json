@@ -1,0 +1,19 @@
+{
+    "name": "test1642/conact1",
+    "description": "contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "heer dholakia",
+            "email": "heer.d@yudiz.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "test1642\\Conact1\\": "src/"
+        }
+    }
+}
